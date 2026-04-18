@@ -31,4 +31,10 @@ em vermelho o que foi retirado e em verde o que foi adicionado.
 25. git checkout main: volta para a branch principal
 26. git checkout novo-botao: volta para a branch criada
 27. git merge novo-botao: une a branch criada a principal main
+28. git clone: para pagar repositorio completo de um github e trazer para o computador pessoal,
+primeiro, cria uma pasta onde será armazenado o repositorio, depois no git bash coloca o endereço
+da pasta, escreve no git bash 'git clone' + link do repositório e enter
+29. Para pegar um repositório e colocar no repositório do seu github faz um fork
+30. O pull request serve para fazer uma contribuição no projeto de outra pessoa, podendo ela 
+aceitar ou não após avaliar.
 
