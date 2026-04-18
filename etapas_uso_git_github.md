@@ -24,4 +24,6 @@ o nome do arquivo após o git add
 e não do GitHub
 20. git push origin main
 21. O remote só é necessário fazer uma vez
-22. Ao clicar no nome do arquivo que aparece no github "criacao projeto", vai mostrar todas as alterações, em vermelho o que foi retirado e em verde o que foi adicionado
+22. Ao clicar no nome do arquivo que aparece no github "criacao projeto", vai mostrar todas as alterações, 
+em vermelho o que foi retirado e em verde o que foi adicionado.
+23. Em "commits" aparece quem fez o commit, a hora e data.
