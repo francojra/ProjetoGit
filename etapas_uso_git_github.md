@@ -31,3 +31,4 @@ em vermelho o que foi retirado e em verde o que foi adicionado.
 25. git checkout main: volta para a branch principal
 26. git checkout novo-botao: volta para a branch criada
 27. git merge novo-botao: une a branch criada a principal main
+
